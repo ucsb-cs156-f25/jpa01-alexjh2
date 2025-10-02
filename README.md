@@ -1,7 +1,7 @@
 # jpa01-alexjh2
 
 
-Deployed at: https://jpa01-alexjh2.dokku-16.cs.ucsb.edu/
+Deployed at: https://jpa01-alexjh2.dokku-16.cs.ucsb.edu
 
 
 # About this repo
